@@ -77,10 +77,7 @@ The data model includes the following key tables:
 ## Contributing
 
 Contributions are welcome! Please create a pull request or open an issue to discuss improvements or new features.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+tails.
 
 ## Acknowledgements
 
